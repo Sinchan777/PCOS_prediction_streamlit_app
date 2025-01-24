@@ -1,1 +1,1 @@
-# PCOS_prediction_straemlit_app
+# PCOS_prediction_streamlit_app
